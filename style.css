@@ -5,7 +5,7 @@
 }
 
 .col{
-    margin-bottom: 15px;
+    margin: 15px 0px;
 }
 
 .container{
@@ -14,4 +14,16 @@
 
 .card{
     margin: 0px auto;
+}
+
+.posting-box{
+    width: 70%;
+    padding: 30px;
+    margin: 10px auto;
+    background-color: #E9ECEF;
+    border-radius: 5px;
+}
+
+.form-group>label{
+    font-weight: bold;
 }
